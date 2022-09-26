@@ -1,0 +1,1 @@
+The manual guide of the CourseWork
