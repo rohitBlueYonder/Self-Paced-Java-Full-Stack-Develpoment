@@ -18,6 +18,6 @@ public class StringHandling {
         System.out.println(s1.length());
         System.out.println(s1.charAt(2));
         System.out.println(s1.equals(s2));
-        System.out.println(s1.equalsIgnoreCase(s3));
+//        System.out.println(s1.equalsIgnoreCase(s3));
     }
 }
